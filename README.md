@@ -16,6 +16,6 @@ Adjust the timing (the second argument) in the SetInterval function to make PacM
 
 If issues, try [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript) or [Stack Overflow](https://stackoverflow.com/tags).
 
-## Roadmap
+## License
 
 This code was provided by MIT.
